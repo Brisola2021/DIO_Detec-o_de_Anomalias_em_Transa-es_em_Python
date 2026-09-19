@@ -516,6 +516,3 @@ Dessa forma, o projeto reúne diferentes conceitos de **Data Science, Machine Le
 
 ---
 
-### 💡 Uma frase curta para colocar logo abaixo do título
-
-> **Projeto de Machine Learning desenvolvido em Python para explorar técnicas de balanceamento de classes e detecção de anomalias em transações financeiras, utilizando diferentes modelos, métricas de avaliação e técnicas de interpretabilidade.**
